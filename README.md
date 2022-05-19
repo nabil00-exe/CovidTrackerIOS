@@ -1,7 +1,7 @@
 # CovidTracker
- mini projet IOS
 
-Une petite description du projet
+ mini projet IOS
+ le backend est hebergé dans heroku
 
 ## Démarrage
 
