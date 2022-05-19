@@ -1,0 +1,174 @@
+
+/* Class = "UILabel"; text = "15"; ObjectID = "1S4-wU-tRH"; */
+"1S4-wU-tRH.text" = "15";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "3CQ-iM-PhR"; */
+"3CQ-iM-PhR.normalTitle" = "Log in";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "3K8-jA-oeB"; */
+"3K8-jA-oeB.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "C6y-2O-Ck6"; */
+"C6y-2O-Ck6.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "ERB-xo-G5n"; */
+"ERB-xo-G5n.normalTitle" = "Sign up";
+
+/* Class = "UILabel"; text = "Checked out :"; ObjectID = "G0J-sh-ZIW"; */
+"G0J-sh-ZIW.text" = "Checked out :";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "If9-id-N21"; */
+"If9-id-N21.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "checkout"; ObjectID = "Ixb-oc-gbo"; */
+"Ixb-oc-gbo.text" = "checkout";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "MMK-AS-le9"; */
+"MMK-AS-le9.text" = "name";
+
+/* Class = "UILabel"; text = "Capacity :"; ObjectID = "MyQ-xk-K8b"; */
+"MyQ-xk-K8b.text" = "Capacity :";
+
+/* Class = "UILabel"; text = "checkin"; ObjectID = "NXh-Gh-hxb"; */
+"NXh-Gh-hxb.text" = "checkin";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "O1F-ko-lHJ"; */
+"O1F-ko-lHJ.title" = "Item";
+
+/* Class = "UILabel"; text = "Locations"; ObjectID = "OHH-bf-b5g"; */
+"OHH-bf-b5g.text" = "Locations";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Od7-cO-zAB"; */
+"Od7-cO-zAB.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Email :"; ObjectID = "OnW-FF-BT5"; */
+"OnW-FF-BT5.text" = "Email :";
+
+/* Class = "UILabel"; text = "Category :"; ObjectID = "Pvx-Jv-LdA"; */
+"Pvx-Jv-LdA.text" = "Category :";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "QUA-He-Yns"; */
+"QUA-He-Yns.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QpM-Y8-Nb3"; */
+"QpM-Y8-Nb3.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Reclamation"; ObjectID = "UON-Lb-N0X"; */
+"UON-Lb-N0X.text" = "Reclamation";
+
+/* Class = "UILabel"; text = "You need to scan the location's QR-code to check-in"; ObjectID = "V5z-8j-mXz"; */
+"V5z-8j-mXz.text" = "You need to scan the location's QR-code to check-in";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "WZJ-8I-n7K"; */
+"WZJ-8I-n7K.text" = "Name";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "XX1-Rl-CO2"; */
+"XX1-Rl-CO2.text" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Sign up!"; ObjectID = "Xfq-2g-ggf"; */
+"Xfq-2g-ggf.normalTitle" = "Sign up!";
+
+/* Class = "UILabel"; text = "Cafe"; ObjectID = "Zsx-cy-l5i"; */
+"Zsx-cy-l5i.text" = "Cafe";
+
+/* Class = "UILabel"; text = "No QR code is detected"; ObjectID = "aAw-J7-TvT"; */
+"aAw-J7-TvT.text" = "No QR code is detected";
+
+/* Class = "UILabel"; text = "No QR code is detected"; ObjectID = "aba-Hk-rQK"; */
+"aba-Hk-rQK.text" = "No QR code is detected";
+
+/* Class = "UITextField"; placeholder = "Full name"; ObjectID = "bAa-Ih-d2Z"; */
+"bAa-Ih-d2Z.placeholder" = "Full name";
+
+/* Class = "UILabel"; text = "If you have tested positive for covid-19, please fill in this form."; ObjectID = "bj2-5O-Lfk"; */
+"bj2-5O-Lfk.text" = "If you have tested positive for covid-19, please fill in this form.";
+
+/* Class = "UILabel"; text = "Don't have account?"; ObjectID = "bqv-ko-Apu"; */
+"bqv-ko-Apu.text" = "Don't have account?";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "cgc-c0-gRp"; */
+"cgc-c0-gRp.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "d00-EW-cnv"; */
+"d00-EW-cnv.text" = "Location";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "d5w-5q-EyQ"; */
+"d5w-5q-EyQ.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ehP-Zi-Pz5"; */
+"ehP-Zi-Pz5.text" = "Name";
+
+/* Class = "UILabel"; text = "Sign in!"; ObjectID = "fSm-ro-wWu"; */
+"fSm-ro-wWu.text" = "Sign in!";
+
+/* Class = "UIButton"; normalTitle = "Scan QR-Code"; ObjectID = "g0L-iX-sox"; */
+"g0L-iX-sox.normalTitle" = "Scan QR-Code";
+
+/* Class = "UILabel"; text = "Location details"; ObjectID = "gYS-lx-QIF"; */
+"gYS-lx-QIF.text" = "Location details";
+
+/* Class = "UILabel"; text = "Capacity :"; ObjectID = "hrI-27-wuY"; */
+"hrI-27-wuY.text" = "Capacity :";
+
+/* Class = "UILabel"; text = "Checked in :"; ObjectID = "hwa-bO-VBT"; */
+"hwa-bO-VBT.text" = "Checked in :";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "iDa-WT-9wy"; */
+"iDa-WT-9wy.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "iIq-TB-lpN"; */
+"iIq-TB-lpN.text" = "Name";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "j8a-Zh-0on"; */
+"j8a-Zh-0on.title" = "Item";
+
+/* Class = "UILabel"; text = "Cafe"; ObjectID = "jXu-qz-rA8"; */
+"jXu-qz-rA8.text" = "Cafe";
+
+/* Class = "UILabel"; text = "Category :"; ObjectID = "jfO-Be-9Vy"; */
+"jfO-Be-9Vy.text" = "Category :";
+
+/* Class = "UILabel"; text = "Create your account here."; ObjectID = "lOu-bY-WCg"; */
+"lOu-bY-WCg.text" = "Create your account here.";
+
+/* Class = "UILabel"; text = "Cafe"; ObjectID = "m2a-Ez-Cdm"; */
+"m2a-Ez-Cdm.text" = "Cafe";
+
+/* Class = "UILabel"; text = "Capacity : "; ObjectID = "miU-B2-EoV"; */
+"miU-B2-EoV.text" = "Capacity : ";
+
+/* Class = "UILabel"; text = "checks history:"; ObjectID = "mpl-BC-54a"; */
+"mpl-BC-54a.text" = "checks history:";
+
+/* Class = "UILabel"; text = "Do you want to check in at :"; ObjectID = "pjb-wS-6Er"; */
+"pjb-wS-6Er.text" = "Do you want to check in at :";
+
+/* Class = "UILabel"; text = "email"; ObjectID = "pvg-0d-c3o"; */
+"pvg-0d-c3o.text" = "email";
+
+/* Class = "UILabel"; text = "Test date :"; ObjectID = "qA6-Oy-wrK"; */
+"qA6-Oy-wrK.text" = "Test date :";
+
+/* Class = "UIButton"; normalTitle = "Confirm check in"; ObjectID = "qHH-dV-df4"; */
+"qHH-dV-df4.normalTitle" = "Confirm check in";
+
+/* Class = "UILabel"; text = "15"; ObjectID = "rmS-5q-CgT"; */
+"rmS-5q-CgT.text" = "15";
+
+/* Class = "UILabel"; text = "Already have account?"; ObjectID = "shB-59-w1b"; */
+"shB-59-w1b.text" = "Already have account?";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "sho-sO-RNF"; */
+"sho-sO-RNF.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Create location"; ObjectID = "tHr-Ea-fvA"; */
+"tHr-Ea-fvA.normalTitle" = "Create location";
+
+/* Class = "UILabel"; text = "Name :"; ObjectID = "vOg-6J-FZP"; */
+"vOg-6J-FZP.text" = "Name :";
+
+/* Class = "UILabel"; text = "15"; ObjectID = "yMY-lz-e8g"; */
+"yMY-lz-e8g.text" = "15";
+
+/* Class = "UILabel"; text = "Check in with QR code"; ObjectID = "yuI-6g-fRU"; */
+"yuI-6g-fRU.text" = "Check in with QR code";

@@ -29,6 +29,8 @@ class ReclamationViewController: UIViewController, UINavigationControllerDelegat
             (success) in
             if success {
                 let alert = UIAlertController(title: "Success", message: "Reclamation passed successfully", preferredStyle: .alert)
+                let action = UIAlertAction(title: "OK", style: .default)
+                alert.addAction(action)
                 self.present(alert, animated: true)
             }
         })

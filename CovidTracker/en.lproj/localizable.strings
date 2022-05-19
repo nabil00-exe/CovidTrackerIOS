@@ -1,0 +1,36 @@
+/* 
+  localizable.strings
+  CovidTracker
+
+  Created by Mac-Mini-2021 on 19/05/2022.
+  
+*/
+
+"Email" = "Email"
+"Password" = "Password"
+"Log in" = "Log in"
+"Don't have account?" = "Don't have account?"
+"Sign up!"  = "Sign up!"
+"Create your account here." = "Create your account here."
+"Full name" = "Full name"
+"Sign up" = "Sign up"
+"Already have account?" = "Already have account?"
+"Sign in" = "Sign in"
+"Title" = "Title"
+"Check in with QR code" = "Check in with QR code"
+"You need to scan the location's QR-code to check-in" = "You need to scan the location's QR-code to check-in"
+"Scan QR-Code" = "Scan QR-Code"
+"Back" = "Back"
+"Do you want to check in at :" = "Do you want to check in at :"
+"Name" = "Name"
+"Confirm check in" = "Confirm check in"
+"Confirm check out" = "Confirm check out"
+"Cafe" = "Cafe"
+"Capacity" = "Capacity"
+"Locations" = "Locations"
+"Reclamation" = "Reclamation"
+"If you have tested positive for covid-19, please fill in this form." = "If you have tested positive for covid-19, please fill in this form."
+"Test date:" = "Test date:"
+"Confirm" = "Confirm"
+"Profile" = "Profile"
+"checks history" = "checks history"

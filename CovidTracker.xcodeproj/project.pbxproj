@@ -80,6 +80,10 @@
 		4B85118128057FB400D2BDAA /* QRPassViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRPassViewController.swift; sourceTree = "<group>"; };
 		5BD6D84D28343C90009EC41C /* CovidTracker.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CovidTracker.entitlements; sourceTree = "<group>"; };
 		5BD6D84F28344230009EC41C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		5BD9B06F2836364300724552 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
+		5BD9B0702836364400724552 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		5BD9B0722836365600724552 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
+		5BD9B0732836365600724552 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		5BF8B0EF283593ED003E3D6B /* MyLocationsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLocationsViewController.swift; sourceTree = "<group>"; };
 		5BF8B0F228359400003E3D6B /* MyLocationsCellViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLocationsCellViewController.swift; sourceTree = "<group>"; };
 		5BF8B0F82835B452003E3D6B /* MyLocationsCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLocationsCollectionViewCell.swift; sourceTree = "<group>"; };
@@ -257,6 +261,8 @@
 			knownRegions = (
 				en,
 				Base,
+				fr,
+				es,
 			);
 			mainGroup = 4B8511562805639000D2BDAA;
 			packageReferences = (
@@ -372,6 +378,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				4B8511692805639000D2BDAA /* Base */,
+				5BD9B06F2836364300724552 /* fr */,
+				5BD9B0722836365600724552 /* es */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -380,6 +388,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				4B8511712805639A00D2BDAA /* Base */,
+				5BD9B0702836364400724552 /* fr */,
+				5BD9B0732836365600724552 /* es */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -391,6 +401,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -452,6 +463,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
