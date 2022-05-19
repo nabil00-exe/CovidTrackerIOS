@@ -13,10 +13,10 @@ run on xcode
 xcode version > 15.0
 swift
 
-### Installation &
+### Installation
 l'application va etre bientôt disponible sur app store
 
-## Fabriqué avec
+## Outils
 
 xcode version 15.5
 
