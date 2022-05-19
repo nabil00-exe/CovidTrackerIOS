@@ -11,7 +11,7 @@ import GMStepper
 class LocationNextViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource {
     
     var location: Location!
-    let pickerData = ["Coffee shop","Restaurent","Shop", "School"]
+    let pickerData = ["Coffee shop","Resto","Shop", "School"]
     
     func numberOfComponents(in categorieInput: UIPickerView) -> Int {
         return 1
@@ -35,6 +35,7 @@ class LocationNextViewController: UIViewController, UIPickerViewDelegate, UIPick
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        locNameTV.showDoneButtonOnKeyboard()
         categorieInput.setValue(UIColor.white, forKeyPath: "textColor")
         categorieInput.delegate = self
         categorieInput.dataSource = self
@@ -63,3 +64,4 @@ class LocationNextViewController: UIViewController, UIPickerViewDelegate, UIPick
     
 
 }
+

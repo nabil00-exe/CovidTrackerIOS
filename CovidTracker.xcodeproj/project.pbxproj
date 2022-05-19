@@ -40,7 +40,6 @@
 		4B85118228057FB400D2BDAA /* QRPassViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B85118128057FB400D2BDAA /* QRPassViewController.swift */; };
 		5BD6D85028344230009EC41C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5BD6D84F28344230009EC41C /* GoogleService-Info.plist */; };
 		5BF8B0F0283593EE003E3D6B /* MyLocationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF8B0EF283593ED003E3D6B /* MyLocationsViewController.swift */; };
-		5BF8B0F328359400003E3D6B /* MyLocationsCellViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF8B0F228359400003E3D6B /* MyLocationsCellViewController.swift */; };
 		5BF8B0F92835B452003E3D6B /* MyLocationsCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF8B0F82835B452003E3D6B /* MyLocationsCollectionViewCell.swift */; };
 		C75C4DEC3A9151BDBFD194B1 /* Pods_CovidTracker.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93B55D1050FB2FBDC39106D2 /* Pods_CovidTracker.framework */; };
 /* End PBXBuildFile section */
@@ -85,7 +84,6 @@
 		5BD9B0722836365600724552 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
 		5BD9B0732836365600724552 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		5BF8B0EF283593ED003E3D6B /* MyLocationsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLocationsViewController.swift; sourceTree = "<group>"; };
-		5BF8B0F228359400003E3D6B /* MyLocationsCellViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLocationsCellViewController.swift; sourceTree = "<group>"; };
 		5BF8B0F82835B452003E3D6B /* MyLocationsCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLocationsCollectionViewCell.swift; sourceTree = "<group>"; };
 		5E6A2C99F26143A2C04E4627 /* Pods-CovidTracker.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CovidTracker.release.xcconfig"; path = "Target Support Files/Pods-CovidTracker/Pods-CovidTracker.release.xcconfig"; sourceTree = "<group>"; };
 		93B55D1050FB2FBDC39106D2 /* Pods_CovidTracker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CovidTracker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -134,7 +132,6 @@
 				084040192824F00B0069C194 /* checkinConfirmationViewController.swift */,
 				08566674282545EA00D414FF /* LocationCellViewController.swift */,
 				5BF8B0EF283593ED003E3D6B /* MyLocationsViewController.swift */,
-				5BF8B0F228359400003E3D6B /* MyLocationsCellViewController.swift */,
 				5BF8B0F82835B452003E3D6B /* MyLocationsCollectionViewCell.swift */,
 			);
 			path = View;
@@ -360,7 +357,6 @@
 				5BF8B0F92835B452003E3D6B /* MyLocationsCollectionViewCell.swift in Sources */,
 				087C097D280A3A4100C771D5 /* ReclamationViewModel.swift in Sources */,
 				4B85117F28057EAE00D2BDAA /* ProfileViewController.swift in Sources */,
-				5BF8B0F328359400003E3D6B /* MyLocationsCellViewController.swift in Sources */,
 				087C0982280A3A9F00C771D5 /* Constants.swift in Sources */,
 				087C0971280A2E0F00C771D5 /* User.swift in Sources */,
 				4B85116D2805639000D2BDAA /* CovidTracker.xcdatamodeld in Sources */,
@@ -531,6 +527,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				"OTHER_CODE_SIGN_FLAGS[sdk=*]" = "--generate-entitlement-der";
 				PRODUCT_BUNDLE_IDENTIFIER = tn.esprit.CovidTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -555,6 +552,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				"OTHER_CODE_SIGN_FLAGS[sdk=*]" = "--generate-entitlement-der";
 				PRODUCT_BUNDLE_IDENTIFIER = tn.esprit.CovidTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";

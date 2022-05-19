@@ -18,6 +18,7 @@ class ReclamationViewController: UIViewController, UINavigationControllerDelegat
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        dateTestTV.setValue(UIColor.white, forKeyPath: "textColor")
 
         // Do any additional setup after loading the view.
     }

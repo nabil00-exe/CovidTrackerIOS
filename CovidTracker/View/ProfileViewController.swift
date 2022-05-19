@@ -57,6 +57,8 @@ class ProfileViewController: UIViewController,UINavigationControllerDelegate, UI
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        logOut.tintColor = UIColor.white
+        myLocationsbtn.tintColor = UIColor.white
         userViewModel.getUserByToken(userToken: UserDefaults.standard.string(forKey: "token")!) { [self] success, result in
             if success {
                 let user = result
